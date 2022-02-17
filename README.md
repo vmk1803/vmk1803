@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on React, Redux for Frontend.
-- 🌱 I’m currently learning DataStructures and Alogorithms.
-- 👯 I’m looking to collaborate on projects which includes using Technologies related to Web Development
+- 🔭 I’m currently working on `React, Redux for Frontend`.
+- 🌱 I’m currently learning `DataStructures and Alogorithms`.
+- 👯 I’m looking to collaborate on projects which includes using Technologies related to `Web Development`
 - 💬 Ask me about : MERN stack
 - All about my Experience : [Resume](https://drive.google.com/file/d/11ltpuqLrbtuj3r2CeNuzIV1imWvG2Bfg/view?usp=sharing)
 - 📫 How to reach me: vmk1803@gmail.com
