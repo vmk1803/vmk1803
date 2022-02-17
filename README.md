@@ -1,5 +1,5 @@
 ## Hi there👋 I'm Murali Krishna
-### Aspiring Full-Stack Developer with intuitive problem-solving skills and having specialization in MERN stack. 
+### Aspiring Full-Stack Developer with intuitive problem-solving skills and having specialization in MERN stack. Getting started with Python and now with MERN stack coding always increased my curiosity to discover more techologies and implement creative projects. Currently working on React, Redux to improvise frontend. Backend Technologies which I love to work on, MongoDB, redis for faster data accessing, frameworks like ExpressJs, NodeJS for servers, API's. I like to write clean and effective code.
 
 <!--
 **vmk1803/vmk1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
